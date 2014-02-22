@@ -1,0 +1,3 @@
+[submodule "external/i3"]
+	path = external/i3
+	url = git://code.i3wm.org/i3
